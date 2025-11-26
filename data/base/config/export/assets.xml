@@ -1,9 +1,7 @@
 <ModOps>
-  <ModOps>
-    <ModOp GUID="31750" Merge="FactoryBase">
+   <ModOp GUID="31750" Merge="FactoryBase">
       <FactoryBase>
         <CycleTime>30</CycleTime>
       </FactoryBase>
     </ModOp>
-  </ModOps>
 </ModOps>
